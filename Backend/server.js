@@ -77,5 +77,5 @@ app.post('/api/notifications', async (req, res) => {
 
 // Start the server
 app.listen(port, () => {
-  console.log(`Server running at http://13.201.28.100:${port}`);
+  console.log(`Server running at http://13.201.16.99:${port}`);
 });
